@@ -1,7 +1,5 @@
 # Student Marks Prediction
 
-Beginner-friendly Data Science project using Python.
-
 ## Objective
 Predict student marks based on study hours using Linear Regression.
 
@@ -28,3 +26,4 @@ If a student studies 7 hours, predicted marks ≈ 70+
 - Add more features
 - Use multiple regression
 - Increase dataset size
+
